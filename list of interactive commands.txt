@@ -1,0 +1,14 @@
+Welcome to the COVID-19 Vaccine Reservation Scheduling Application!
+*** Please enter one of the following commands ***
+> create_patient <username> <password>
+> create_caregiver <username> <password>
+> login_patient <username> <password>
+> login_caregiver <username> <password>
+> search_caregiver_schedule <date>
+> reserve <date> <vaccine>
+> upload_availability <date>
+> cancel <appointment_id>
+> add_doses <vaccine> <number>
+> show_appointments
+> logout
+> quit

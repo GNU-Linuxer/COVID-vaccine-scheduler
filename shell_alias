@@ -1,0 +1,5 @@
+export Server={davidxie-cse414.database.windows.net}
+export DBName={vaccine-scheduler-java}
+export UserID={very_efficient_database}
+export Password={w2isiaAS2aju92sjI19s}
+
